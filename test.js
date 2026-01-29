@@ -1,2 +1,3 @@
 let a = "123"
-console.log("Value is :",a)
+let c = "456"
+console.log("Value is :",a+c)
